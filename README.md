@@ -4,8 +4,7 @@ My name is Casper and I like coding and exploring some awesome technologies
 
 ### :hourglass_flowing_sand: My current involvement
 
-- :clock1: Part-time Rails & React Team Lead at [DataCrafts](https://www.datacrafts.io/)
-- :clock4: Part-time Web Developer at [IBM](https://www.ibm.com/)
+- :clock1: Software Developer at [Hopin](https://hopin.com/)
 - :clock7: [Several](https://github.com/cxspxr/twoeyes) [open](https://github.com/datacrafts-io/gatsby-opinionated-starter) [source](https://github.com/cxspxr/vue-cli-plugin-coffee) [projects](https://github.com/cxspxr/secure-publish) [and](https://github.com/datacrafts-io/update-notifier-webpack) [more](https://github.com/datacrafts-io/eslint-config-airbnb-base-typescript-prettier)
 - :clock9: Working on few ideas that **soon** may appear as open source projects on my profile!
 
