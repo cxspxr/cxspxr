@@ -5,7 +5,7 @@ My name is Casper and I like coding and exploring some awesome technologies
 ### :hourglass_flowing_sand: My current involvement
 
 - :clock1: Software Developer at [Hopin](https://hopin.com/)
-- :clock7: [Several](https://github.com/cxspxr/twoeyes) [open](https://github.com/datacrafts-io/gatsby-opinionated-starter) [source](https://github.com/cxspxr/vue-cli-plugin-coffee) [projects](https://github.com/cxspxr/secure-publish) [and](https://github.com/datacrafts-io/update-notifier-webpack) [more](https://github.com/datacrafts-io/eslint-config-airbnb-base-typescript-prettier)
+- :clock7: [Several](https://github.com/artelydev/twoeyes) [open](https://github.com/artelydev/gatsby-opinionated-starter) [source](https://github.com/artelydev/vue-cli-plugin-coffee) [projects](https://github.com/artelydev/secure-publish) [and](https://github.com/artelydev/update-notifier-webpack) [more](https://github.com/datacrafts-io/eslint-config-airbnb-base-typescript-prettier)
 - :clock9: Working on few ideas that **soon** may appear as open source projects on my profile!
 
 ### :chart: GitHub stats
@@ -17,7 +17,7 @@ My name is Casper and I like coding and exploring some awesome technologies
 
 ### :mailbox_with_mail: How to reach me
 - :email: ilovewindows96@gmail.com
-- :speech_balloon: [Telegram](https://t.me/cxspxr)
+- :speech_balloon: [Telegram](https://t.me/caspxr)
 - :computer: [Upwork](https://upwork.com/fl/yaroslavcasper)
 - :business_suit_levitating: [LinkedIn](https://www.linkedin.com/in/yaroslav-kasperovych-b1bb831b0/)
 - :camera: [Instagram](https://instagram.com/meacasper)
