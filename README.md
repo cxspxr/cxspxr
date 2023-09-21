@@ -4,7 +4,7 @@ My name is Casper and I like coding and exploring some awesome technologies
 
 ### :hourglass_flowing_sand: My current involvement
 
-- :clock1: Software Developer at [Hopin](https://hopin.com/)
+- :clock1: Software Developer at [Taxdome](https://taxdome.com/)
 - :clock7: [Several](https://github.com/artelydev/twoeyes) [open](https://github.com/artelydev/gatsby-opinionated-starter) [source](https://github.com/artelydev/vue-cli-plugin-coffee) [projects](https://github.com/artelydev/secure-publish) [and](https://github.com/datacrafts-io/update-notifier-webpack) [more](https://github.com/datacrafts-io/eslint-config-airbnb-base-typescript-prettier)
 - :clock9: Working on few ideas that **soon** may appear as open source projects on my profile!
 
